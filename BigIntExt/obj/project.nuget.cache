@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "84s02ptE1Zd9ZLBUxo0tASYy+FfYXCa0l1J0Mhmlrj68R14t7mBSeBpLXQFxvvahHGIyQfY4Mo+SZveZ+v7jQQ==",
+  "success": true,
+  "projectFilePath": "/media/mohsen/Shared/Projects/RPN/BigIntExt/BigIntExt.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
